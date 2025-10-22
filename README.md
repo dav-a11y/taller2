@@ -1,8 +1,8 @@
 # Simulación de Robots en PyBullet mediante Contenedores Docker  
 ### Casos de Estudio: Atlas, Baxter y Drones
 
-**Autor:** David  
-**Fecha:** \today  
+**Autor:** David Diaz  
+**Fecha:** 22 octubre 2025  
 **Tipo de documento:** Informe técnico (LaTeX)
 
 ---
@@ -49,6 +49,10 @@ El informe técnico (`informe_docker_pybullet.tex`) contiene las siguientes secc
 
 ---
 
+[Overleaf](https://www.overleaf.com/read/bscydftqqbnm#9e2aad)
+
+---
+
 ## Ejecución Rápida (Ejemplo Atlas)
 
 ```bash
@@ -69,5 +73,5 @@ docker run -it --rm \
 
 Documento LaTeX disponible en Overleaf:
 
-[Abrir en Overleaf](https://www.overleaf.com/read/bscydftqqbnm#9e2aad)
+
 
